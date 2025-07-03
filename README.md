@@ -1,9 +1,12 @@
 # Hi there 👋
 
 ## 👩‍💻 About me
-🎓 3rd-year Computer Systems & Networks student at BSUIR
+- 🎓 3rd-year Computer Systems & Networks student at BSUIR
+- 📚 Always ready to learn something new
+- 🔧 Currently learning: Unity
+- 🌍 I speak English
 
-## 🛠 Skills
+## 🛠 Languages & Tools
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" width="40"/>
@@ -16,6 +19,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40" />
 </div>
+
+## 💻 Skills
+
+- **Networking:** TCP/IP, HTTP/HTTPS, DNS
+- **Algorithms**: O-notation, sorting/search algorithms, graph traversal (DFS/BFS).
+- **Data Structures**: Lists, trees, hash tables, queues
+- **Math**: Discrete math, linear algebra, probability theory, cryptography basics
 
 ## 🔥 Statistics
 
