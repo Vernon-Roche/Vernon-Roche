@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My education: 3rd-year student at BSUIR (Belarusian State University of Informatics and Radioelectronics), Faculty of Computer Systems and Networks.
+
+## Skills
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+
+
+          
 <!--
 **Vernon-Roche/Vernon-Roche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
