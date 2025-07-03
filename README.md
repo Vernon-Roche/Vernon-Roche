@@ -19,9 +19,9 @@ My education: 3rd-year student at BSUIR (Belarusian State University of Informat
 ## Statistics
 
 <div align="center">
-  <img source="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vernon-Roche&theme=default"/>
-  <img source="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vernon-Roche&theme=default"/>
-  <img source="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vernon-Roche&theme=github_dark" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vernon-Roche&theme=github_dark" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vernon-Roche&theme=github_dark" alt=""/>
 </div>
 <!--
 **Vernon-Roche/Vernon-Roche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
