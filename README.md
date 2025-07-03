@@ -2,7 +2,7 @@
 
 My education: 3rd-year student at BSUIR (Belarusian State University of Informatics and Radioelectronics), Faculty of Computer Systems and Networks.
 
-#№ Skills
+## Skills
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" width="40"/>
@@ -16,12 +16,12 @@ My education: 3rd-year student at BSUIR (Belarusian State University of Informat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40" />
 </div>
 
-#№ Statistics
+## Statistics
 
 <div align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
+  <img source="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vernon-Roche&theme=default"/>
+  <img source="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vernon-Roche&theme=default"/>
+  <img source="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default"/>
 </div>
 <!--
 **Vernon-Roche/Vernon-Roche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
